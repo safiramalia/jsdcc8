@@ -26,6 +26,12 @@ Safira Amalia Muharani - ini.safira@gmail.com - https://github.com/safiramalia/e
 Safira Putri Wibowo - safiraputri500@gmail.com - https://github.com/safirapwibowo/exercise-1 <br/>
 Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/>
 
+
+Exercise 2
+
+Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercise2 <br/>
+Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/>
+
 Exercise 2 <br/>
 
 Danial Raza J - danialfc40@gmail.com - https://github.com/DanialRj/Exercise2 <br/>
