@@ -25,12 +25,13 @@ Reynaldo Sincar Pratama - reynaldopratama84@gmail.com - https://github.com/reyna
 Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercise1 <br/>
 Safira Amalia Muharani - ini.safira@gmail.com - https://github.com/safiramalia/exercise1 <br/>
 Safira Putri Wibowo - safiraputri500@gmail.com - https://github.com/safirapwibowo/exercise-1 <br/>
-Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/>
+Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/
 
 Exercise 2 <br/>
 
 Andikha Dian Nugraha - andikha.dian1@gmail.com - https://github.com/andikhadian/Exercise2 <br/>
 Danial Raza J - danialfc40@gmail.com - https://github.com/DanialRj/Exercise2 <br/>
+Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Exercise2 <br/>
 Mahardhika Hendri Putra - 2008madik@gmail.com - https://github.com/mahardhikahp/Exercise1 <br/>
 Muhammad Ibrahim - islahboim@gmail.com - https://github.com/kangbaim/Exercise2 <br/>
 Nita Septiani - nitas.septiani@gmail.com  https://github.com/nitas12/exerise2/ <br/>
