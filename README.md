@@ -26,4 +26,7 @@ Safira Putri Wibowo - safiraputri500@gmail.com - https://github.com/safirapwibow
 Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/>
 
 Exercise 2 <br/>
+
+Mahardhika Hendri Putra - 2008madik@gmail.com - https://github.com/mahardhikahp/Exercise1 <br/>
 Muhammad Ibrahim - islahboim@gmail.com - https://github.com/kangbaim/Exercise2 <br/>
+Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/>
