@@ -24,3 +24,6 @@ Reynaldo Sincar Pratama - reynaldopratama84@gmail.com - https://github.com/reyna
 Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercise1 <br/>
 Safira Putri Wibowo - safiraputri500@gmail.com - https://github.com/safirapwibowo/exercise-1 <br/>
 Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/
+
+Exercise 2 <br/>
+Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Exercise2 <br/>
