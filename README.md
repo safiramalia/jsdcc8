@@ -25,6 +25,9 @@ Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercis
 Safira Putri Wibowo - safiraputri500@gmail.com - https://github.com/safirapwibowo/exercise-1 <br/>
 Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/>
 
-Excercise 2
+Exercise 2 <br/>
 
 Danial Raza J - danialfc40@gmail.com - https://github.com/DanialRj/Exercise2 <br/>
+Mahardhika Hendri Putra - 2008madik@gmail.com - https://github.com/mahardhikahp/Exercise1 <br/>
+Muhammad Ibrahim - islahboim@gmail.com - https://github.com/kangbaim/Exercise2 <br/>
+Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/>
