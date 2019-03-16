@@ -22,6 +22,7 @@ Nurdiana Atmanagara - nurdiana.atmanagara@gmail.com - https://github.com/nurdian
 Putra Irawan - putrairawan992@yahoo.com - https://github.com/putrairawan992/Exercise-1 <br/>
 Reynaldo Sincar Pratama - reynaldopratama84@gmail.com - https://github.com/reynaldo22/Javascript-Development-Course <br/>
 Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercise1 <br/>
+Safira Amalia Muharani - ini.safira@gmail.com - https://github.com/safiramalia/exercise1 <br/>
 Safira Putri Wibowo - safiraputri500@gmail.com - https://github.com/safirapwibowo/exercise-1 <br/>
 Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/>
 
