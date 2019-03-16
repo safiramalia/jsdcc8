@@ -37,3 +37,4 @@ Muhammad Ibrahim - islahboim@gmail.com - https://github.com/kangbaim/Exercise2 <
 Nita Septiani - nitas.septiani@gmail.com  https://github.com/nitas12/exerise2/ <br/>
 Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercise2 <br/>
 Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/>
+Ardyan Priya Pratama - ardyanpratama22@gmail.com - https://github.com/ardyanpp/Exercise2 <br/>
